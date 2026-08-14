@@ -23,18 +23,18 @@ Ich will verschiedene Projekt anschauen und es Dokumentieren
 ### Planung 14.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Meine Projekte für dieses Lernperiode
+- [x] Meine Projekte für dieses Lernperiode
 - [x] Moodle Module 231 und 322 arbeiten
-- [X] Mit meinem Projekt anfangen
+- [ ] Mit meinem Projekt anfangen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich eine Word Datei in mein Github geaddet das aus Projekten besteht die ich in der Zukunft machen könnte. Ich habe Copilot für Projektideen und Formatierung gebraucht und habe den Rest dann in Word schön gleichmässig formatiert. Ausserdem werde ich nächstes mal mit dem Projekt arbeiten. Bei den Modulen bin ich soweit, wie man muss.
 
 ## Lernperiode Reflexion
-
+Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirklich für die Zukunft brauche und werde nächstes mal mit einer kleinen Website von mir selber arbeiten. Die Module finde ich waren nicht so schwer, da ich sie am anfang immer gut finde und noch simple bevor schlimmeres kommt
 ### Planung 23.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
+- [ ] Website Projekt
 - [ ] ...
 - [X] Viertes AP
 
