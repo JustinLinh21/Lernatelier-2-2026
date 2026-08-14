@@ -25,7 +25,7 @@ Ich will verschiedene Projekt anschauen und es Dokumentieren
 
 - [x] Meine Projekte für dieses Lernperiode
 - [x] Moodle Module 231 und 322 arbeiten
-- [ ] Mit meinem Projekt anfangen
+- [x] Mit meinem Projekt anfangen
 
 Heute habe ich eine Word Datei in mein Github geaddet das aus Projekten besteht die ich in der Zukunft machen könnte. Ich habe Copilot für Projektideen und Formatierung gebraucht und habe den Rest dann in Word schön gleichmässig formatiert. Ausserdem werde ich nächstes mal mit dem Projekt arbeiten. Bei den Modulen bin ich soweit, wie man muss.
 
