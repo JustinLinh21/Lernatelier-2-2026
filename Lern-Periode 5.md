@@ -35,8 +35,8 @@ Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirk
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Website Projekt
-- [ ] ...
-- [X] Viertes AP
+- [ ] sicher mit modulen nacharbeiten
+- [X] mal schauen villeicht was für kantui
 
 (Heute habe ich... (50-100 Wörter))
 
