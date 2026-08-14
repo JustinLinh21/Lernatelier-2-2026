@@ -36,7 +36,7 @@ Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirk
 
 - [ ] Website Projekt
 - [ ] sicher mit modulen nacharbeiten
-- [X] mal schauen villeicht was für kantui
+- [ ] mal schauen villeicht was für kanti
 
 (Heute habe ich... (50-100 Wörter))
 
@@ -47,7 +47,7 @@ Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirk
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
-- [X] Viertes AP
+- [ ] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
 
@@ -61,22 +61,7 @@ Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirk
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
-
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
-### Planung dd.mm.yyyy
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
 
@@ -106,7 +91,22 @@ Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirk
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
-- [X] Viertes AP
+- [ ] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
+
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
+### Planung dd.mm.yyyy
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [ ] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
 
