@@ -34,9 +34,9 @@ Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirk
 ### Planung 23.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Website Projekt
-- [ ] sicher mit modulen nacharbeiten
-- [ ] mal schauen villeicht was für kanti
+- [ ] Projekt auswählen (TBA)
+- [ ] Mit Modul 320
+- [ ] Mit meinem Projekt weit kommen
 
 (Heute habe ich... (50-100 Wörter))
 
