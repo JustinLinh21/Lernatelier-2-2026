@@ -31,7 +31,7 @@ Heute habe ich eine Word Datei in mein Github geaddet das aus Projekten besteht 
 
 ## Lernperiode Reflexion
 Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirklich für die Zukunft brauche und werde nächstes mal mit einer kleinen Website von mir selber arbeiten. Die Module finde ich waren nicht so schwer, da ich sie am anfang immer gut finde und noch simple bevor schlimmeres kommt
-### Planung 23.08.2026
+### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Projekt auswählen (TBA)
@@ -42,7 +42,7 @@ Für mein Projekt habe ich eine To do liste ausgewählt. Die Grundfunktionen sin
 
 ## Lernperiode Reflexion
 In dieser Lernperiode konnte ich gut arbeiten und war nicht schläfrig da ich gestern gut schlafte. Ich konnte auch einiges dazulernen
-### Planung dd.mm.yyyy
+### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Moodle nacharbeiten da es sehr viel ist
