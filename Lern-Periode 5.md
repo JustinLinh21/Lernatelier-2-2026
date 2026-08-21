@@ -34,20 +34,20 @@ Ich habe richtig an meinem Projekt Ideen gezweifelt und nachgedacht was ich wirk
 ### Planung 23.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Projekt auswählen (TBA)
-- [ ] Mit Modul 320
-- [ ] Mit meinem Projekt weit kommen
+- [x] Projekt auswählen (TBA)
+- [x] Mit Modul 320
+- [x] Mit meinem Projekt weit kommen
 
-(Heute habe ich... (50-100 Wörter))
+Für mein Projekt habe ich eine To do liste ausgewählt. Die Grundfunktionen sind fertig: Aufgaben hinzufügen, als erledigt markieren, löschen und speichern (mit localStorage), damit die Aufgaben auch nach dem Neuladen der Seite noch da sind. Ebenfalls konnte ich mit Modul 320 ein bisschen mehr zu c# lernen und habe weiterstudiert(Die codes).
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode konnte ich gut arbeiten und war nicht schläfrig da ich gestern gut schlafte. Ich konnte auch einiges dazulernen
 ### Planung dd.mm.yyyy
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Moodle nacharbeiten da es sehr viel ist
+- [ ] To do Liste erweitern
+- [ ] C# üben
 
 (Heute habe ich... (50-100 Wörter))
 
