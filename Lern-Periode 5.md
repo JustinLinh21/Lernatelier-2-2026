@@ -45,23 +45,21 @@ In dieser Lernperiode konnte ich gut arbeiten und war nicht schläfrig da ich ge
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Moodle nacharbeiten da es sehr viel ist
-- [ ] To do Liste erweitern
-- [ ] C# üben
+- [x] Moodle nacharbeiten da es sehr viel ist
+- [x] To do Liste erweitern
+- [x] C# üben
 
-(Heute habe ich... (50-100 Wörter))
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Ich habe Moodle-Aufgaben bearbeitet zu dem C# spiel, ein PowerShell-Script zur Windows-Systemoptimierung für sicherheit und Lag reduktion (Telemetrie deaktivieren, Bloatware entfernen) auf meinem Computer ausgeführt da ich das interessant finde und habe mein To-Do-App-Projekt fertiggestellt mit Bearbeiten-Funktion wenn man Doppel Clickt, löschen und streichen und einem schicken Design.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
-### Planung dd.mm.yyyy
+(Heute habe ich mein To-Do-App-Projekt fertiggestellt und nebenbei Moodle-Aufgaben sowie auch ein Powershell-Script ausgeführt, das die Privatsphäre unter Windows verbessert. Es schaltet Telemetrie, Diagnose-Funktionen und die Werbe-ID aus und entfernt unnötige vorinstallierte Apps. Ich habe auch feines Essen 
+
+### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Neues Projekt
+- [ ] Moodle
+- [ ] Wahrscheinlich eigene Website über mich
 
 (Heute habe ich... (50-100 Wörter))
 
