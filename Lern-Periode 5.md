@@ -52,7 +52,7 @@ In dieser Lernperiode konnte ich gut arbeiten und war nicht schläfrig da ich ge
 Ich habe Moodle-Aufgaben bearbeitet zu dem C# spiel, ein PowerShell-Script zur Windows-Systemoptimierung für sicherheit und Lag reduktion (Telemetrie deaktivieren, Bloatware entfernen) auf meinem Computer ausgeführt da ich das interessant finde und habe mein To-Do-App-Projekt fertiggestellt mit Bearbeiten-Funktion wenn man Doppel Clickt, löschen und streichen und einem schicken Design.
 
 ## Lernperiode Reflexion
-(Heute habe ich mein To-Do-App-Projekt fertiggestellt und nebenbei Moodle-Aufgaben sowie auch ein Powershell-Script ausgeführt, das die Privatsphäre unter Windows verbessert. Es schaltet Telemetrie, Diagnose-Funktionen und die Werbe-ID aus und entfernt unnötige vorinstallierte Apps. Ich habe auch feines Essen 
+Heute habe ich mein To-Do-App-Projekt fertiggestellt was nicht so interessant für mich war und nebenbei Moodle-Aufgaben sowie auch ein Powershell-Script ausgeführt, das die Privatsphäre unter Windows verbessert. Es schaltet Telemetrie, Diagnose-Funktionen und die Werbe-ID aus und entfernt unnötige vorinstallierte Apps. Ich habe auch feines Essen dabei, das mich immer wieder motiviert!
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
