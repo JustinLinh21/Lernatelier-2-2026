@@ -57,30 +57,26 @@ Heute habe ich mein To-Do-App-Projekt fertiggestellt was nicht so interessant f�
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Minecraft mod mit claude erste Grundlagen lernen
-- [ ] Moodle Modul 320
-- [ ] Mit einem Mod anfangen, so 20% Mind. weit kommen
+- [x] Minecraft mod mit claude erste Grundlagen lernen
+- [x] Moodle Modul 320 aufholen was fehlte (3 Aufträge)
+- [x] Mit einem Mod anfangen, so 20% Mind. weit kommen
 
-(Heute habe ich... (50-100 Wörter))
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
-
+Heute habe ich mit Claude die Grundlagen fürs Minecraft-Modding mit Forge gelernt. Ich habe Java JDK 17 und IntelliJ IDEA installiert und das Forge Mod Development Kit heruntergeladen und als Projekt eingerichtet. Ausserdem habe ich gelernt, was man alles braucht, um einen eigenen Mob zu erstellen: eine Entity-Klasse mit KI-Verhalten, die Registrierung im Spiel, sowie Modell und Textur für das Aussehen. Modul 320 konnte ich schon aufholen
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich nur im Zimmer gearbeitet und habe am Ende Pause gemacht. Für den Setup zu einem Minecraft-Mod zu erstellen habe ich viel gelernt und finde es vorallem interessant wie viele spannende Möglichkeiten es gibt sie zu erstellen. Jeden Tag lernt man wohl neues. Und ich finde Claude erklärt allgemein sehr gut und ist sehr schlau.
+
 ### Planung dd.mm.yyyy
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] weiter mir Projekt bis zu KI Verhalten Einstellung fertig werden
+- [ ] Mit Moodle C# aufholen für das fehlende
+- [X] Lernen für Wirtschaftprüfung
 
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
-
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
