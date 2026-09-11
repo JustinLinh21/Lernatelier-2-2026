@@ -68,18 +68,16 @@ In dieser Lernperiode habe ich nur im Zimmer gearbeitet und habe am Ende Pause g
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] weiter mit Projekt Minecraft mod werden, bis zur Mobdesign
-- [ ] Mit Moodle 231 arbeiten um für die fehlende Nachweise machen
-- [ ] Lernen für Wirtschaftprüfung
+- [x] weiter mit Projekt Minecraft mod werden, bis zur Mobdesign
+- [x] Mit Moodle 231 arbeiten um für die fehlende Nachweise machen
+- [x] Lernen für Wirtschaftprüfung
 
-Heute habe ich für Modul 231 alle fehlende Nachweise bei HZ 5-6 bis heute gemacht und ... 
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Heute habe ich für Modul 231 alle fehlenden Nachweise bei HZ 5–6 erledigt und hochgeladen. Danach habe ich mit meinem Minecraft‑Mod weitergemacht und den Anfang des Mob‑Designs erstellt. Ich habe die Grundstruktur der Entity vorbereitet und erste Ideen für die Textur gesammelt. Zusätzlich habe ich kurz für die Wirtschaftprüfung gelernt, damit ich die wichtigsten Themen wiederhole und besser vorbereitet bin.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
-### Planung dd.mm.yyyy
+In dieser Lernperiode habe ich gut gearbeitet und wichtige Aufgaben abgeschlossen. Ich habe die fehlenden Nachweise in Modul 231 erledigt und beim Minecraft‑Mod erste Fortschritte beim Mob‑Design gemacht. Zusätzlich habe ich für die Wirtschaftprüfung gelernt. Beim gespräch mit Herrn Lauk wurde ich auf Begleitlernend gesetzt. Insgesamt war der Tag produktiv, und ich konnte meine Ziele erreichen.
+
+### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
