@@ -92,9 +92,6 @@ In dieser Lernperiode habe ich nur im Zimmer gearbeitet und habe am Ende Pause g
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
 
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 ### Planung dd.mm.yyyy
 3 bis 5 klar messbare Arbeitspakete.
 
