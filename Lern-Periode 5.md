@@ -72,7 +72,7 @@ In dieser Lernperiode habe ich nur im Zimmer gearbeitet und habe am Ende Pause g
 - [ ] Mit Moodle 231 arbeiten um für die fehlende Nachweise machen
 - [ ] Lernen für Wirtschaftprüfung
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich für Modul 231 alle fehlende Nachweise bei HZ 5-6 bis heute gemacht und ... 
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
