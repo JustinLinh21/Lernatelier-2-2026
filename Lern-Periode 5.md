@@ -80,21 +80,20 @@ In dieser Lernperiode habe ich gut gearbeitet und wichtige Aufgaben abgeschlosse
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] LB 322 Arbeiten hoffentlich mit der hälfe fertig werden
+- [ ] Modul 231 1730 ABGEBEN
+- [ ] Minecraft mod an mein Mobdesign weiter machen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich an der LB 322 weitergearbeitet und bin bei etwa der Hälfte angekommen, was mir ein gutes Gefühl für den weiteren Ablauf gibt. Danach habe ich Modul 231 Auftrag 1730 abgegeben, das 16 Punkte gibt. Zusätzlich habe ich am Minecraft‑Mod weitergemacht und mein Mob‑Design ein wenig verbessert, indem ich kleine Details an der Textur angepasst habe aber da hatte ich nicht viel Zeit reingesteckt.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
-
-### Planung dd.mm.yyyy
+In dieser Lernperiode habe ich konzentriert gearbeitet und mehrere wichtige Aufgaben weitergebracht. Bei der LB 322 bin ich gut vorangekommen und bin bei der 3 Teilaufgabe dran, also ungefähr die Hälfte geschafft, was mir Sicherheit für die nächsten Abgabe gibt. Modul 231 konnte ich auch abgeben und habe mich da konzentriert, was wichtig war, da der Auftrag viele Punkte bringt. Zusätzlich habe ich am Minecraft‑Mod weitergearbeitet und mein Mob‑Design leicht verbessert, auch wenn ich dafür heute nicht sehr viel Zeit hatte. Insgesamt war der Tag produktiv, aber auch etwas anstrengend. Trotzdem konnte ich meine Ziele verfolgen und habe gemerkt, dass ich mit einer klaren Planung gut vorankomme.
+### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] KI soll basic funktionieren
+- [ ] Mob in einer Welt spawnen lassen
+- [ ] Mit meinem Minecraft Mob fertig werden
 
 (Heute habe ich... (50-100 Wörter))
 
