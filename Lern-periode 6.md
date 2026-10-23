@@ -75,9 +75,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] C# und Python lernen auf der Website coddy.tech, mindestens 2 Prüfungen lösen
-- [ ] C# OOP Bossfight: Ein einfaches Bossfight-Spiel programmieren. Der Spieler und der Boss haben Lebenspunkte und greifen sich gegenseitig an. Mit einer Attack()-Methode wird Schaden verursacht. Der Kampf endet, wenn einer 0 HP erreicht. 
-- [ ] Python Schere, Stein, Papier: Ein Spiel programmieren, bei dem der Spieler gegen den Computer spielt. Spiele 5 Runden, entscheide den Gewinner jeder Runde und zeige am Ende den Punktestand an.
+- [x] C# und Python lernen auf der Website coddy.tech, mindestens 2 Prüfungen lösen
+- [x] C# OOP Bossfight: Ein einfaches Bossfight-Spiel programmieren. Der Spieler und der Boss haben Lebenspunkte und greifen sich gegenseitig an. Mit einer Attack()-Methode wird Schaden verursacht. Der Kampf endet, wenn einer 0 HP erreicht. 
+- [x] Python Schere, Stein, Papier: Ein Spiel programmieren, bei dem der Spieler gegen den Computer spielt. Spiele 5 Runden, entscheide den Gewinner jeder Runde und zeige am Ende den Punktestand an.
 
 
 #### Tagesreflexion
@@ -88,7 +88,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich sehr konzentriert an meinen beiden Projekten gearbeitet. Bei coddy.tech habe ich die ersten 2 lektionen inklusive die Prüfungen dafür gelöst. Ich habe die Projekte in einem Ordner auf dieser Repo hochgeladen und plane das auch für die nächsten, grössere Projekte.
 
 
 <!--
