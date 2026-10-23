@@ -29,7 +29,7 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-Ich stehe in den Noten noch ok, bei einer mit einer 6 und andere ist schlechter aber es ist noch nicht fertig
+In einigen Modulen habe ich gute Leistungen erzielt, bei einer habe ich die Note 6.0. In anderen Modulen habe ich noch Verbesserungspotenzial bei einer 3.5 aber es ist noch nicht die fertige Note. Da noch nicht alle Bewertungen abgeschlossen sind, kann sich mein Notendurchschnitt noch verändern.
 
 ### Veränderungen
 <!--
@@ -45,7 +45,7 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-C# und Python viele kleine Projekte
+Bis zum Ende der Lernperiode löse ich mindestens 10 Python-Übungen und programmiere 3 kleine Python-Projekte. Zudem erstelle ich mindestens 3 C#-Programme mit Klassen, Objekten, Vererbung oder anderen OOP-Konzepten. Und noch ein grosses Projekt das man in der Zukunft zeigen kann.
 
 ### Generelle Ziele
 <!--
@@ -94,6 +94,93 @@ Heute habe ich sehr konzentriert an meinen beiden Projekten gearbeitet. Bei codd
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
+
+### Planung 30.10.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
+
+
+### Planung 06.11.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
+
+
+### Planung 13.11.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
+
+
+### Planung 20.11.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
+
+
+### Planung 27.11.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
+
+
+### Planung 04.12.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
+
+
+### Planung 11.12.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
+
+
+### Planung 18.12.2026
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Tagesreflexion
+
+...
 
 ## Lernperiode Reflexion
 <!--
