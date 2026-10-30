@@ -98,8 +98,8 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 ### Planung 30.10.2026
 
 - [ ] Ich möchte weiterhin bei coddy.tech Aufgaben lösen also nächster Kapitel(2) für C# und python
-- [ ] Mit einem grossen Projekt anfangen
-- [ ] ein kleines Python code 
+- [ ] Mit einem grossen Projekt anfangen auf Github und ein Tutorial Video zu Github anschauen
+- [ ] Mich für die Mündliche prüfung vorbereiten
 
 #### Tagesreflexion
 
