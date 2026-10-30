@@ -97,20 +97,20 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 ### Planung 30.10.2026
 
-- [ ] Ich möchte weiterhin bei coddy.tech Aufgaben lösen also nächster Kapitel(2) für C# und python
-- [ ] Mit einem grossen Projekt anfangen auf Github und ein Tutorial Video zu Github anschauen
-- [ ] Mich für die Mündliche prüfung vorbereiten
+- [x] Ich möchte weiterhin bei coddy.tech Aufgaben lösen also nächster Kapitel(2) für C# und python
+- [x] Mit einem grossen Projekt anfangen auf Github und ein Tutorial Video zu Github anschauen
+- [x] Mich für die Mündliche prüfung vorbereiten
 
 #### Tagesreflexion
 
-...
+Heute habe ich mich intensiv mit Git und GitHub beschäftigt. Dabei gab es einige Schwierigkeiten beim Verbinden des lokalen Projekts mit dem GitHub-Repository, wodurch ich viel über Commits, Branches, Pushes und Remote-Repositories gelernt habe. Am Ende konnte ich das Portfolio-Projekt erfolgreich auf GitHub hochladen. Zudem habe ich die Grundstruktur der Webseite erstellt und eine Basis für weitere Entwicklungen geschaffen. Für die mündliche Prüfung habe ich nur wenig gemacht, weshalb dies am Wochenende Priorität haben sollte. Auf Coddy.tech bin ich bei Python weitergekommen.
 
 
 ### Planung 06.11.2026
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] Weiter an coddy.tech arbeiten (C# Kapitel 2 und Python)
+- [ ] Hero Section der Portfolio-Webseite fertigstellen
+- [ ] Modernes CSS-Design (Farben, Navigation, Responsive Design) umsetzen
 
 #### Tagesreflexion
 
