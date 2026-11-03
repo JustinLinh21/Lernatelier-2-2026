@@ -111,6 +111,7 @@ Heute habe ich mich intensiv mit Git und GitHub beschäftigt. Dabei gab es einig
 - [ ] Weiter an coddy.tech arbeiten (C# Kapitel 2 und Python)
 - [ ] Hero Section der Portfolio-Webseite fertigstellen
 - [ ] Modernes CSS-Design (Farben, Navigation, Responsive Design) umsetzen
+- [ ] GSP
 
 #### Tagesreflexion
 
