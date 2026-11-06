@@ -127,17 +127,6 @@ Heute lief die Hero Section besser als erwartet, weil ich die Grundstruktur von 
 ...
 
 
-### Planung 20.11.2026
-
-- [ ]
-- [ ]
-- [ ]
-
-#### Tagesreflexion
-
-...
-
-
 ### Planung 27.11.2026
 
 - [ ]
