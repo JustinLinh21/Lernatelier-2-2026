@@ -108,21 +108,19 @@ Heute habe ich mich intensiv mit Git und GitHub beschäftigt. Dabei gab es einig
 
 ### Planung 06.11.2026
 
-- [ ] Weiter an coddy.tech arbeiten (C# Kapitel 2 und Python)
-- [ ] Hero Section der Portfolio-Webseite fertigstellen
-- [ ] Modernes CSS-Design (Farben, Navigation, Responsive Design) umsetzen
-- [ ] GSP
+- [x] Weiter an coddy.tech arbeiten (C# Kapitel 2 und Python)
+- [x] Hero Section der Portfolio-Webseite fertigstellen
+- [x] Modernes CSS-Design (Farben, Navigation, Responsive Design) umsetzen
 
 #### Tagesreflexion
 
-...
-
+Heute lief die Hero Section besser als erwartet, weil ich die Grundstruktur von letzter Woche wiederverwenden konnte. Das Responsive Design kostete mehr Zeit als geplant, da sich die Navigation auf kleinen Bildschirmen zuerst nicht richtig anpasste. Dabei habe ich gelernt, Layouts zuerst für Mobile zu planen und erst danach für Desktop zu erweitern. Auf coddy.tech bin ich bei C# und Python weitergekommen. Dabei hatte ich auch mein Fachgespräch aber es kamen leider unerwartete Fragen die mich verwirrt haben.
 
 ### Planung 13.11.2026
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] coddy.tech: C# Kapitel 3 und Python Kapitel 3 abschliessen, mindestens 2 Prüfungen lösen
+- [ ] Portfolio-Webseite: Abschnitte "Über mich" und "Projekte" erstellen und mit den GitHub-Repos verlinken, danach pushen
+- [ ] Python-Übung: Ein kleines Projekt programmieren (z. B. Zahlenraten oder To-do-Liste im Terminal) und im Repo ablegen
 
 #### Tagesreflexion
 
